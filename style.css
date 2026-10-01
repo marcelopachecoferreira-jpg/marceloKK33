@@ -4,10 +4,24 @@
     color: rgb(228, 250, 31);
     font-style:italic
 }
- h2{
+
+h2{
     color:rgb(194, 50, 7) ;
 }
-}
+
+
  .extraordinário {
     width: 45%;
  }
+
+.img1 {
+   width: 45%;
+   text-aling: center;
+ }
+ .lista{
+   text-align: left;
+   fonte-style: italic;
+   text-decoration: overline;
+   color: yellowgreen:
+ }
+}
